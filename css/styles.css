@@ -1,0 +1,154 @@
+body {
+  background-color: #f6f6f6;
+}
+
+.col-md-10 {
+  background-color: #fff;
+  border: 1px solid #a7d7f9;
+
+}
+
+#main-header {
+  background-color: #f6f6f6;
+  margin: 2em 1.1em 1em 1.1em;
+  border: 1px grey solid;
+
+}
+
+.main-title {
+  margin-left: 1em;
+}
+
+.categories-list {
+  margin: 1em;
+  display: inline-block;
+  list-style-type: disc;
+  font-size: .9em;
+}
+
+.categories-list li {
+
+}
+
+#utility-nav {
+  float: right;
+  list-style-type: none;
+}
+
+#utility-nav li {
+  display: inline;
+}
+
+.featured-img {
+  width: 120px;
+  margin: 0 1em 1em 1em;
+}
+
+.sister-logo {
+  margin: 0 1em 0 0;
+}
+
+.language-lists li {
+  display: inline;
+}
+
+.main-nav {
+  list-style-type: none;
+  margin-left: -3em;
+  font-size: 0.9em;
+}
+
+h4.sub-nav-header {
+      font-size: 0.95em;
+      color: #4d4d4d;
+
+}
+
+.sub-nav {
+  list-style-type: none;
+  margin-left: -2em;
+  font-size: 0.9em;
+}
+
+h1 {
+  font-size: 1.62em;
+}
+
+#main-header p {
+  font-size: .9em;
+  text-align: center;
+}
+
+.col-md-6 {
+  background-color: #f5fffa;
+  border: 1px #E1EDE7 solid;
+  margin-left: 2em;
+}
+
+.col-md-6 h3 {
+  font-size: 1.25em;
+  background-color: #cef2e0;
+  padding: .3em;
+  border: 1px grey solid;
+}
+
+.col-md-5 {
+  background-color: #f5faff;
+  border: 1px #E1EDE7 solid;
+  margin-left: 2em;
+}
+
+.col-md-5 h3 {
+  font-size: 1.25em;
+  background-color: #cedff2;
+  padding: .3em;
+  border: 1px grey solid;
+}
+
+h3.featured-pic-title {
+  font-size: 1.25em;
+  background-color: #ddcef2;
+  padding: .3em;
+  border: 1px grey solid;
+
+}
+
+/*.featured-pic-area {
+  background-color: #cedff2;
+  border: 1px #ddcef2 solid;
+  margin: 1em 1.4em 0 1.4em;
+}*/
+
+.featured-pic-row {
+  background-color: #faf5ff;
+  border: 1px #ddcef2 solid;
+  margin: 1em 1em 0 1em;
+}
+#featured-pic {
+  margin: 0 1em 1em 0;
+}
+
+.page-header {
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+.page-header h2 {
+  font-family: "Times New Roman", serif;
+  font-size: 1.45em;
+}
+
+.sister-projects {
+  margin-left: 2em;
+}
+
+.additional-languages {
+  margin: 0 2em 0 3em;
+}
+
+.disclaimer {
+  text-align: center;
+  margin: 2em;
+  background-color: #f6f6f6;
+
+}
